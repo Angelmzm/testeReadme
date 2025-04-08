@@ -6,25 +6,23 @@
 
 ## 📌 Dados do Cliente
 
-- **Título do Projeto:** 
-- **Cliente:** 
-- **CNPJ/CPF:** 
-- **Contato:** 
-- **Email do Contato:** 
+- **Título do Projeto:** Glitter&Glamour: um e-commerce de roupas
+- **Cliente:** Andrea Maria Zaule Moreira
+- **CNPJ/CPF:** 223.954.118.09
+- **Contato:** Andrea Moreira
+- **Email do Contato:** andreamariazm@gmail.com
 
 ---
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
-| Nome Completo | Curso | Disciplina |
-|---------------|--------|------------|
-| Integrante 1  |        |            |
-| Integrante 2  |        |            |
-| Integrante 3  |        |            |
-| Integrante 4  |        |            |
-| Integrante 5  |        |            |
+| Nome Completo                    | Curso                                  | Disciplina                                 |
+|----------------------------------|--------------------------------------- |--------------------------------------------|
+| Angelica Maria Zaule Moreira     | Sistemas de Informação                 | Programação Orientada a Objetos em Java    |
+| Kelliane Vieira dos Santos       | Analise e desenvolvimento de sistesmas | Programação Orientada a Objetos em Java    |
 
-**Professor Orientador:** 
+
+**Professor Orientador:** Kessede Rodrigues
 
 ---
 
